@@ -8,8 +8,8 @@
             "default": "Hello, World!"
         }
     ],
-    "version": "1.0",
-    attributes": {
+    version: "1.0",
+    attributes: {
         "version": "3.11",
         "script": "test.py"
       }
