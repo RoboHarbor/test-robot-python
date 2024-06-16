@@ -8,7 +8,7 @@
     "process": {
       "run": "python scrape.py ",
       "properties": {
-          "python-version": "3.10"
+          "pythonVersion": "3.10"
         }
     },
     "parameters": {
