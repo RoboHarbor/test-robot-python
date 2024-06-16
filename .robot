@@ -6,7 +6,7 @@
       "container": "roboharbor/robo-pier-python"
     },
     "process": {
-      "run": "python scrape.py "
+      "run": "python scrape.py ",
       "properties": {
           "python-version": "3.10"
         }
