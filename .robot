@@ -10,7 +10,7 @@
       "properties": {
           "python-version": "3.10"
         }
-    }
+    },
     "parameters": {
       "title": "Parameters for your Robot",
       "description": "Description.",
