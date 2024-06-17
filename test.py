@@ -13,6 +13,3 @@ for key in os.environ:
 print("Goodbye World")
 print("--- ")
 
-# create a asyncio loop forever
-loop = asyncio.new_event_loop()
-loop.run_forever()
